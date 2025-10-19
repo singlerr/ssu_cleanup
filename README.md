@@ -85,11 +85,3 @@ Terminates the currently running `ssu_cleanup` program.
 | | Invalid option as second argument: Output `Usage`, re-output prompt. | 2 |
 | **`arrange`** | No first argument: Output `Usage`, re-output prompt. | 3 |
 | | Path exceeds max length (4096B) or name exceeds max length (256B). | 2 |
-| | Path is not a directory or is outside the user's home directory. | 2 |
-| | Invalid option as second argument: Output `Usage`, re-output prompt. | 5 |
-
-***
-
-| :--- | :--- | :--- |
-| March 16th, 11:59 PM | **+30 points** to total score | Implement **all features** (mandatory + non-mandatory) and submit the report. |
-| March 23rd, 11:59 PM | **+10 points** to total score | Implement **all features** (mandatory + non-mandatory) and submit the report. |
